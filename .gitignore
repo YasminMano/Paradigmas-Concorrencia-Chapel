@@ -1,0 +1,21 @@
+# Executaveis compilados dos exemplos
+/hello
+/01_criacao_tarefas
+/02_coforall
+/03_begin
+/04_memoria_compartilhada
+/05_sincronizacao_atomic
+/06_sincronizacao_sync
+/07_iteradores_yield
+/08_promises_equivalente
+/09_event_loop
+/10_futures
+/11_modelo_atores
+/12_paralelismo_dados
+
+# Arquivos temporarios
+*.tmp
+*.log
+
+# Arquivos do editor
+.vscode/
