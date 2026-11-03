@@ -100,5 +100,7 @@ Esses resultados demonstram os riscos de condições de corrida e a importância
 ## Integrantes
 
 Eduardo Leal Aruth
+
 Leonardo Rodrigues de Lima
+
 Yasmin Ayumi Foltran Mano
